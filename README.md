@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhavika-02
 - 👀 I’m interested in java
-- 🌱 I’m currently learning data analytics , java
+- 🌱 I’m currently learning data analytics ,java
 - 💞️ I’m looking to collaborate on Git-Hub
 - 📫 How to reach me -bhavikaapatil2002@gmail.com
 
